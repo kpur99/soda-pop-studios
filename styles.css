@@ -548,14 +548,14 @@
     border-bottom: 1px solid rgba(240,235,225,.07);
   }
   .fbrand-name { font-family: var(--script); font-size: 2rem; color: var(--cream); margin-bottom: .3rem; display: block; line-height: 1; }
-  .fbrand-sub { font-size: .5rem; letter-spacing: .26em; text-transform: uppercase; color: var(--copper); display: block; margin-bottom: 1.1rem; opacity: .7; }
-  .ftr-brand p { font-size: .76rem; color: rgba(240,235,225,.25); line-height: 1.85; }
-  .fcol h4 { font-size: .5rem; letter-spacing: .24em; text-transform: uppercase; color: rgba(240,235,225,.25); margin-bottom: 1.2rem; font-weight: 600; }
+  .fbrand-sub { font-size: .55rem; letter-spacing: .26em; text-transform: uppercase; color: var(--copper); display: block; margin-bottom: 1.1rem; opacity: .9; }
+  .ftr-brand p { font-size: .82rem; color: rgba(240,235,225,.6); line-height: 1.85; }
+  .fcol h4 { font-size: .62rem; letter-spacing: .24em; text-transform: uppercase; color: var(--copper); margin-bottom: 1.2rem; font-weight: 600; }
   .fcol ul { list-style: none; display: flex; flex-direction: column; gap: .7rem; }
-  .fcol a { font-size: .76rem; color: rgba(240,235,225,.3); text-decoration: none; letter-spacing: .04em; transition: color .2s; }
+  .fcol a { font-size: .85rem; color: rgba(240,235,225,.7); text-decoration: none; letter-spacing: .04em; transition: color .2s; }
   .fcol a:hover { color: var(--cream); }
   .ftr-bottom { max-width: 1280px; margin: 2rem auto 0; display: flex; justify-content: space-between; gap: 1rem; }
-  .ftr-bottom p { font-size: .6rem; color: rgba(240,235,225,.18); letter-spacing: .04em; }
+  .ftr-bottom p { font-size: .68rem; color: rgba(240,235,225,.5); letter-spacing: .04em; }
   
   /* ── ANIMATIONS ── */
   @keyframes fu {
